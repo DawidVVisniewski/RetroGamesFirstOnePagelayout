@@ -1,0 +1,268 @@
+body
+{
+background-color: #303030;
+color: #ffffff;
+font-family: 'Lato', sans-serif;
+margin: 0 ! important;
+
+}
+
+.wrapper
+{
+	width: 100%;
+}
+
+.header
+{
+	width: 100%;
+	padding: 25px 0;
+	
+}
+.logo
+{
+	width: 450px;
+	font-size: 48px; 
+	border: 1px soli;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom: 20px;
+	
+}
+
+.nav
+{
+	width: 100%;
+	padding: 10px 0;
+	background-color: #d45f4f;
+	text-align: center;
+	border-bottom: 2px solid;
+	border-top:2px solid;
+	
+	
+	
+	
+	
+}
+.content 
+{
+	width: 1000px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: justify;
+	
+
+
+}
+
+.socials
+
+{
+	
+	width:100%;
+	background-color: #292929;
+	text-align: center;
+
+}	
+	
+.socialdivs
+
+{
+	width: 1000px;
+	margin-left: auto;
+    margin-right:auto;
+}	
+.fb
+{  
+   width:250px;
+   height:155px;
+   float:left;	
+}
+
+
+.fb:hover
+{
+	background-color:#4668b3;
+	
+	
+	
+}
+
+
+.yt
+{  
+   width:250px;
+   height:155px;
+   float:left;	
+}
+
+
+.yt:hover
+{
+	background-color:#d94348;
+	
+}
+
+.tw
+{  
+   width:250px;
+   height:155px;
+   float:left;	
+}
+
+
+.tw:hover
+{
+	background-color:#3095d3;
+	
+	}
+
+.gplus
+{  
+   width:250px;
+   height:155px;
+   float:left;	
+}
+
+
+.gplus:hover
+{
+	background-color:#d95333;
+	
+}
+
+.footer
+{
+	text-align:center;
+    background-color: #222222;
+    padding:30px;	
+	
+}
+
+.sticky
+{
+	width:100%;
+    position:fixed;
+	left:0;
+	top:0;
+	z-index:100;
+	
+	
+}
+
+ol
+
+{
+	padding:0;
+	margin:0;
+	list-style-type:none;
+	font-size:18px;
+	height:35px;
+	line-height:200%;
+	display:inline-block;
+	
+	
+	
+	
+}
+
+ol a 
+
+{  
+
+    color:#ffffff;
+    text-decoration:none;
+	display:block;
+	
+  
+}	
+
+
+
+ol > li 
+{
+	float:left;
+	width:150px;
+	height:40px;
+	border-right: 1px dashed #751b1b;
+	
+	
+}
+
+
+
+ol > li:first-child 
+
+{    
+    border-left: 1px dashed #751b1b;
+	
+	
+}
+
+
+ol>li:hover 
+
+{
+	
+	background-color: #cf6969;
+	
+	
+}
+
+ol>li:hover > a
+
+{
+	color: #C34A36;
+	
+	
+}
+
+
+ol>li>ul
+{
+	list-style-type:none;
+	padding:0;
+	margin:0;
+	height:40;
+	display:none;
+	
+}
+ol>li:hover > ul
+{
+	
+	display:block;
+	
+}
+
+
+
+
+ol>li>ul>li
+{
+	background-color: #cf6969;
+	position:relative;
+	z-index:100;
+	border-top:1px dashed #751b1b;
+	
+	
+}
+ol>li>ul>li:hover > a
+{
+	color:#C34A36;
+
+}
+
+
+
+	
+	
+	
+
+
+	
+	
+		
+		
+	
+	
+
+
